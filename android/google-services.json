@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "142807900506",
+    "project_id": "secrets-of-fashion",
+    "storage_bucket": "secrets-of-fashion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142807900506:android:b930cabc57b348c69f1363",
+        "android_client_info": {
+          "package_name": "com.example.secrets_of_fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142807900506-kvcvs29pi8qasg996tie9or9ubrl62l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GEuPQ4blg5oBYunYifOXaFUq1t12y9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142807900506-kvcvs29pi8qasg996tie9or9ubrl62l4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142807900506-gdqlqkrq3eog58p38nd4biucge7qfo06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secretsOfFashion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

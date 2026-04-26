@@ -1,0 +1,38 @@
+name: secrets_of_fashion
+description: "A new Flutter project for Secrets of Fashion."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  cloud_firestore: ^5.6.12
+  google_fonts: ^6.2.1
+  provider: ^6.1.5+1
+  shared_preferences: ^2.5.5
+  video_player: ^2.11.1
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/videos/
+    - assets/Womens/
+    - assets/Shoes/
+    - assets/Kids/
+    - assets/Bags/
+    - assets/Mens/
+    - assets/images/LOGO 1.png
